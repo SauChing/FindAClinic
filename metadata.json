@@ -1,0 +1,8 @@
+{
+  "name": "Clinic Finder SG",
+  "description": "Find nearby clinics in Singapore with real-time distance calculations using open data from data.gov.sg.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
